@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rachelnicole/whatcat.git"
+    "url": "git+http://dinoface.azurewebsites.net/"
   },
   "keywords": [
     "microsoft",
